@@ -1,1 +1,1 @@
-# rock_paper_scissors
+# Model Classification Rock-Paper-Scissors
