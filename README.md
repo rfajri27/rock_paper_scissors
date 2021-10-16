@@ -9,12 +9,8 @@ adasda
 
 ## Model Evaluation
 
-<details>
-<summary>Confussion Matrix</summary>
-<br>
-</details>
+### Loss
+![](images/plot.png)
 
-<details>
-<summary>Accuracy and Loss</summary>
-<br>
-</details>
+### Accuracy
+![](images/plot_acc.png)
