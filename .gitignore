@@ -5,7 +5,7 @@ __pycache__/
 .idea/
 
 *.txt
-inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+
 
 # C extensions
 *.so
